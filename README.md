@@ -1,12 +1,19 @@
 # PhysicsSim
 
-Python kullanılarak geliştirilmiş, kişinin kendi seneryolarını 
-simüle edebilecekleri basit bir fizik simülasyonudur.
+Python kullanılarak geliştirilmiş, kişinin kendi seneryolarını simüle edebilecekleri basit bir fizik simülasyonudur.
+
+[![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## 🚀 Özellikler
 - Yerçekimi simülasyonu
 - Çarpışma algılama
-- Pygame arayüzü
+- Basit arayüzü seçenekleri
+
+## ✅ Yapılacaklar
+- Yerçekimsiz ortam seçeneği
+- Seçilen objeye kuvvet uygulama
+- Arayüz iyileştirmeleri
 
 ## 🔧 Kurulum
 ```bash
