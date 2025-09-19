@@ -2,7 +2,7 @@
 
 Python kullanılarak geliştirilmiş, kişinin kendi seneryolarını simüle edebilecekleri basit bir fizik simülasyonudur.
 
-[![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.13-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## 🚀 Özellikler
