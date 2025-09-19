@@ -9,8 +9,9 @@ simüle edebilecekleri basit bir fizik simülasyonudur.
 - Pygame arayüzü
 
 ## 🔧 Kurulum
-```bash```
+```bash
 git clone https://github.com/altanatalay0/PhysicsSim.git
 cd PhysicsSim
 pip install -r requirements.txt
 python main.py
+```
